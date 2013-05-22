@@ -2,11 +2,13 @@
 /AlarmManager
 /AllAppsProvider
 /AppWidget
+/AutoSetting
 /BackupManagerService
 /BatteryService
 /BluetoothService
 /BluetoothSocket
 /BtOppRfcomm
+/CAT
 /CarouselFragment
 /ContactMessageStore
 /ContactUtils
@@ -43,7 +45,9 @@
 /LockPattern
 /MailManager
 /MailMessage
+/MtpService
 /NetworkStatsFactory
+/NfcService
 /NotificationLightFlashLightUtility
 /NotificationService
 /OnDemandProgressBar
@@ -72,6 +76,7 @@
 /UsbDeviceManager
 /UsbnetService
 /VoldCmdListener
+/WIFI_ICON
 /WSP
 /WeatherTime
 /WifiA
@@ -80,6 +85,7 @@
 /WifiStateMachine
 /WindowManager
 /WirelessDisplayService
+/com.htc
 /dalvik
 /global
 /kickstart
