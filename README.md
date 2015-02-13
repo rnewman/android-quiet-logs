@@ -10,3 +10,9 @@ Put it somewhere, then:
 ```
 adb logcat -v time | fgrep -v -f android.ignore
 ```
+
+You can do hilighting, too:
+
+```
+alias loghilight='grcat grc.conf'
+```
